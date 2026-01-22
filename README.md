@@ -1,26 +1,12 @@
 <div align="center">
 
-<!-- GITHUB BUTTONS (ghbtns.com) -->
+<!-- STANDARD ROUNDED BADGES (COMMON STYLE) -->
 
-<a href="https://github.com/FlopperOnTTv/PS3-Skylanders-NFC-Bundle-All-games-w-Unrealesed">
-  <img src="https://ghbtns.com/github-btn.html?user=FlopperOnTTv&repo=PS3-Skylanders-NFC-Bundle-All-games-w-Unrealesed&type=star&count=true&size=large" alt="Star">
-</a>
-
-<a href="https://github.com/FlopperOnTTv/PS3-Skylanders-NFC-Bundle-All-games-w-Unrealesed">
-  <img src="https://ghbtns.com/github-btn.html?user=FlopperOnTTv&repo=PS3-Skylanders-NFC-Bundle-All-games-w-Unrealesed&type=fork&count=true&size=large" alt="Fork">
-</a>
-
-<a href="https://github.com/FlopperOnTTv/PS3-Skylanders-NFC-Bundle-All-games-w-Unrealesed">
-  <img src="https://ghbtns.com/github-btn.html?user=FlopperOnTTv&repo=PS3-Skylanders-NFC-Bundle-All-games-w-Unrealesed&type=watch&count=true&size=large" alt="Watch">
-</a>
-
-<a href="https://github.com/FlopperOnTTv">
-  <img src="https://ghbtns.com/github-btn.html?user=FlopperOnTTv&type=follow&count=true&size=large" alt="Follow">
-</a>
-
-<a href="https://github.com/sponsors/FlopperOnTTv">
-  <img src="https://ghbtns.com/github-btn.html?user=FlopperOnTTv&type=sponsor&size=large" alt="Sponsor">
-</a>
+![Stars](https://img.shields.io/github/stars/FlopperOnTTv/PS3-Skylanders-NFC-Bundle-All-games-w-Unrealesed?style=flat\&logo=github)
+![Forks](https://img.shields.io/github/forks/FlopperOnTTv/PS3-Skylanders-NFC-Bundle-All-games-w-Unrealesed?style=flat\&logo=github)
+![Watchers](https://img.shields.io/github/watchers/FlopperOnTTv/PS3-Skylanders-NFC-Bundle-All-games-w-Unrealesed?style=flat\&logo=github)
+![Followers](https://img.shields.io/github/followers/FlopperOnTTv?style=flat\&logo=github)
+![Sponsor](https://img.shields.io/github/sponsors/FlopperOnTTv?style=flat\&logo=githubsponsors)
 
 </div>
 
