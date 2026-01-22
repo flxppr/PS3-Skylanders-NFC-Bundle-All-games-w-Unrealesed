@@ -1,5 +1,84 @@
-# PS3-Skylanders-NFC-Bundle-For-All-games-Unrealesed
-This is a bundle of all the PS3 Skylanders minifigures in NFC (Near Field Communication). Use this however you want credits to the owner , i just found all of them in a weird video so decided to give them to yall.
-If you are searching for a ways to get the games get them from here:aHR0cHM6Ly9yb21zZnVuLmNvbS9yb21zL3BzMy8/cT1za3lsYW5kZXJz (Decode this with Base64)
+<div align="center">
 
-[![Stars](https://img.shields.io/github/stars/FlopperOnTTv/PS3-Skylanders-NFC-Bundle-All-games-w-Unrealesed?style=for-the-badge&logo=github&label=Stars)](https://github.com/FlopperOnTTv/PS3-Skylanders-NFC-Bundle-All-games-w-Unrealesed/stargazers)
+<!-- ICON-ONLY ROUND BADGES -->
+
+[![Stars](https://img.shields.io/github/stars/FlopperOnTTv/PS3-Skylanders-NFC-Bundle-All-games-w-Unrealesed?style=for-the-badge\&logo=github\&label=)](https://github.com/FlopperOnTTv/PS3-Skylanders-NFC-Bundle-All-games-w-Unrealesed/stargazers)
+[![Forks](https://img.shields.io/github/forks/FlopperOnTTv/PS3-Skylanders-NFC-Bundle-All-games-w-Unrealesed?style=for-the-badge\&logo=github\&label=)](https://github.com/FlopperOnTTv/PS3-Skylanders-NFC-Bundle-All-games-w-Unrealesed/network)
+[![Watch](https://img.shields.io/github/watchers/FlopperOnTTv/PS3-Skylanders-NFC-Bundle-All-games-w-Unrealesed?style=for-the-badge\&logo=github\&label=)](https://github.com/FlopperOnTTv/PS3-Skylanders-NFC-Bundle-All-games-w-Unrealesed/watchers)
+[![Follow](https://img.shields.io/github/followers/FlopperOnTTv?style=for-the-badge\&logo=github\&label=)](https://github.com/FlopperOnTTv)
+[![Sponsor](https://img.shields.io/github/sponsors/FlopperOnTTv?style=for-the-badge\&logo=githubsponsors\&label=)](https://github.com/sponsors/FlopperOnTTv)
+
+</div>
+
+---
+
+# 🐉 PS3 Skylanders NFC Bundle
+
+**All Games • Unreleased Content • PS3 Ready**
+
+A complete **Skylanders NFC bundle** designed for **PlayStation 3**, including **all games** and **unreleased content**. Built for preservation, testing, and pure nostalgia.
+
+---
+
+## ✨ Features
+
+* 🎮 Supports **all PS3 Skylanders titles**
+* 🧿 NFC-ready figures & data
+* 🔓 Includes **unreleased / rare content**
+* ⚡ Easy setup
+* 🛠️ Ideal for modding & preservation
+
+---
+
+## 🚀 Getting Started
+
+```text
+1. Clone or download the repository
+2. Prepare your NFC setup
+3. Load the data on PS3
+4. Enjoy Skylanders 🔥
+```
+
+---
+
+## 📦 Repository Info
+
+* 🕒 Actively maintained
+* 📂 Large archive bundle
+* 🧠 Community-driven
+
+---
+
+## 📥 Getting the Games
+
+If you are searching for a way to get the games, get them from here:
+
+```text
+aHR0cHM6Ly9yb21zZnVuLmNvbS9yb21zL3BzMy8/cT1za3lsYW5kZXJz
+```
+
+➡️ **Decode this using Base64** to reveal the link.
+
+---
+
+## ❤️ Support the Project
+
+If this helped you:
+
+* ⭐ Star the repo
+* 👤 Follow for updates
+* ❤️ Sponsor to support preservation work
+
+---
+
+## ⚠️ Disclaimer
+
+This project is for **educational and preservation purposes only**. You are responsible for how you use it.
+
+---
+
+<div align="center">
+
+**Made with passion by FlopperOnTTv**
+
+</div>
