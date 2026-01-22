@@ -1,25 +1,25 @@
 <div align="center">
 
-<!-- CUSTOM ICON BUTTONS (NO SHIELDS.IO) -->
+<!-- GITHUB BUTTONS (ghbtns.com) -->
 
-<a href="https://github.com/FlopperOnTTv/PS3-Skylanders-NFC-Bundle-All-games-w-Unrealesed/stargazers">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width="42" height="42" />
+<a href="https://github.com/FlopperOnTTv/PS3-Skylanders-NFC-Bundle-All-games-w-Unrealesed">
+  <img src="https://ghbtns.com/github-btn.html?user=FlopperOnTTv&repo=PS3-Skylanders-NFC-Bundle-All-games-w-Unrealesed&type=star&count=true&size=large" alt="Star">
 </a>
-&nbsp;&nbsp;
-<a href="https://github.com/FlopperOnTTv/PS3-Skylanders-NFC-Bundle-All-games-w-Unrealesed/network">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/git.svg" width="42" height="42" />
+
+<a href="https://github.com/FlopperOnTTv/PS3-Skylanders-NFC-Bundle-All-games-w-Unrealesed">
+  <img src="https://ghbtns.com/github-btn.html?user=FlopperOnTTv&repo=PS3-Skylanders-NFC-Bundle-All-games-w-Unrealesed&type=fork&count=true&size=large" alt="Fork">
 </a>
-&nbsp;&nbsp;
-<a href="https://github.com/FlopperOnTTv/PS3-Skylanders-NFC-Bundle-All-games-w-Unrealesed/watchers">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/eye.svg" width="42" height="42" />
+
+<a href="https://github.com/FlopperOnTTv/PS3-Skylanders-NFC-Bundle-All-games-w-Unrealesed">
+  <img src="https://ghbtns.com/github-btn.html?user=FlopperOnTTv&repo=PS3-Skylanders-NFC-Bundle-All-games-w-Unrealesed&type=watch&count=true&size=large" alt="Watch">
 </a>
-&nbsp;&nbsp;
+
 <a href="https://github.com/FlopperOnTTv">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width="42" height="42" />
+  <img src="https://ghbtns.com/github-btn.html?user=FlopperOnTTv&type=follow&count=true&size=large" alt="Follow">
 </a>
-&nbsp;&nbsp;
+
 <a href="https://github.com/sponsors/FlopperOnTTv">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/githubsponsors.svg" width="42" height="42" />
+  <img src="https://ghbtns.com/github-btn.html?user=FlopperOnTTv&type=sponsor&size=large" alt="Sponsor">
 </a>
 
 </div>
