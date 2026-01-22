@@ -74,6 +74,7 @@ If this helped you:
 ## ⚠️ Disclaimer
 
 This project is for **educational and preservation purposes only**. You are responsible for how you use it.
+Apparantly specific **Unrealesed** Skylanders may ruin your save so be careful of the way you use it.
 
 ---
 
