@@ -1,12 +1,26 @@
 <div align="center">
 
-<!-- ICON-ONLY ROUND BADGES -->
+<!-- CUSTOM ICON BUTTONS (NO SHIELDS.IO) -->
 
-[![Stars](https://img.shields.io/github/stars/FlopperOnTTv/PS3-Skylanders-NFC-Bundle-All-games-w-Unrealesed?style=for-the-badge\&logo=github\&label=)](https://github.com/FlopperOnTTv/PS3-Skylanders-NFC-Bundle-All-games-w-Unrealesed/stargazers)
-[![Forks](https://img.shields.io/github/forks/FlopperOnTTv/PS3-Skylanders-NFC-Bundle-All-games-w-Unrealesed?style=for-the-badge\&logo=github\&label=)](https://github.com/FlopperOnTTv/PS3-Skylanders-NFC-Bundle-All-games-w-Unrealesed/network)
-[![Watch](https://img.shields.io/github/watchers/FlopperOnTTv/PS3-Skylanders-NFC-Bundle-All-games-w-Unrealesed?style=for-the-badge\&logo=github\&label=)](https://github.com/FlopperOnTTv/PS3-Skylanders-NFC-Bundle-All-games-w-Unrealesed/watchers)
-[![Follow](https://img.shields.io/github/followers/FlopperOnTTv?style=for-the-badge\&logo=github\&label=)](https://github.com/FlopperOnTTv)
-[![Sponsor](https://img.shields.io/github/sponsors/FlopperOnTTv?style=for-the-badge\&logo=githubsponsors\&label=)](https://github.com/sponsors/FlopperOnTTv)
+<a href="https://github.com/FlopperOnTTv/PS3-Skylanders-NFC-Bundle-All-games-w-Unrealesed/stargazers">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width="42" height="42" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/FlopperOnTTv/PS3-Skylanders-NFC-Bundle-All-games-w-Unrealesed/network">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/git.svg" width="42" height="42" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/FlopperOnTTv/PS3-Skylanders-NFC-Bundle-All-games-w-Unrealesed/watchers">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/eye.svg" width="42" height="42" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/FlopperOnTTv">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" width="42" height="42" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/sponsors/FlopperOnTTv">
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/githubsponsors.svg" width="42" height="42" />
+</a>
 
 </div>
 
