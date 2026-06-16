@@ -1,13 +1,5 @@
 <div align="center">
 
-<!-- STANDARD ROUNDED BADGES (COMMON STYLE) -->
-
-![Stars](https://img.shields.io/github/stars/FlopperOnTTv/PS3-Skylanders-NFC-Bundle-All-games-w-Unrealesed?style=flat\&logo=github)
-![Forks](https://img.shields.io/github/forks/FlopperOnTTv/PS3-Skylanders-NFC-Bundle-All-games-w-Unrealesed?style=flat\&logo=github)
-![Watchers](https://img.shields.io/github/watchers/FlopperOnTTv/PS3-Skylanders-NFC-Bundle-All-games-w-Unrealesed?style=flat\&logo=github)
-![Followers](https://img.shields.io/github/followers/FlopperOnTTv?style=flat\&logo=github)
-![Sponsor](https://img.shields.io/github/sponsors/FlopperOnTTv?style=flat\&logo=githubsponsors)
-
 </div>
 
 ---
